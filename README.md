@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ope Ajibuwa
+- 👋 Hi, I’m Ope Ajibuwa
 - 👀 I’m interested in applying Machine Learning and AI techniques to solve cybersecurity problems. I have a strong networking and systems engineering background. 
 - 🌱 I’m currently working on a research on public key infrastructure for vehicular networks for my masters at Oregon State University. For my PhD, I will build novel ML algorithms to solve cybersecurity problems. I'm actively building and expanding my capabilities in the cybersecurity space.
 - 💞️ I’m looking to collaborate on projects in cyber, network, web and cloud security.
