@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ope Ajibuwa
-- 👀 I’m interested in applying Machine Learning and AI techniques to solve cybersecurity problems. I have a strong networking and systems engineering background. 
+- 👀 I’m interested in applying Machine Learning and AI techniques to solve cybersecurity problems.
 - 💞️ I’m looking to collaborate on data-driven network and cloud security projects.
 - 📫 You can reach via my email: ajibuwa94@gmail.com
 
