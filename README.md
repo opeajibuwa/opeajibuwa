@@ -5,7 +5,6 @@
 - 💞️ Open to collaborations on data-driven network and cloud security initiatives.
 - 📫 Feel free to reach me via email: ajibuwa94@gmail.com.
 
-
 <!---
 opeajibuwa/opeajibuwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
