@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Ope Ajibuwa.
 - 👀 I'm passionate about safeguarding users and organizations from security and privacy threats.
 - 🛡️ My expertise lies in security and privacy engineering, with a focus on offensive security, security automation, application security, and cloud security.
-- 💡 Currently researching the implementation of PETs for Internet-of-Things (IoT).
+- 💡 Currently researching the implementation of Privacy Enhancing Technologies (PETs) for Internet-of-Things (IoT).
 - 💞️ Open to collaborations on data-driven network and cloud security projects.
 - 📫 Feel free to reach me via email: ajibuwa94@gmail.com.
 
